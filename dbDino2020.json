@@ -10,6 +10,6 @@
     {"id": 20, "capa": "", "jogo": "Battletoads", "status": "Finalizado", "comecei": "28/10/2020", "terminei": "03/11/2020", "ano": 2020, "hrsJogadas": "5h 15m", "tamJogo": "Curto", "platJogada": "Xbox One S", "gamescore": "605/1000", "gamescoreSoma": 605, "nota": 8, "preco": 999},
     {"id": 21, "capa": "", "jogo": "BattleField Hardline", "status": "Finalizado", "comecei": "12/11/2020", "terminei": "24/11/2020", "ano": 2020, "hrsJogadas": "5h", "tamJogo": "Curto", "platJogada": "Xbox One S", "gamescore": "455/1950", "gamescoreSoma": 455, "nota": 7, "preco": 999},
     {"id": 22, "capa": "", "jogo": "Gears of War 5", "status": "Finalizado", "comecei": "16/02/2020", "terminei": "03/12/2020", "ano": 2020, "hrsJogadas": "1d 8h 28m", "tamJogo": "Longo", "platJogada": "Xbox One S", "gamescore": "210/2500", "gamescoreSoma": 210, "nota": 8, "preco": 999},
-    {"id": 23, "capa": "", "jogo": "BattleField 4", "status": "Finalizado", "comecei": "24/11/2020", "terminei": "06/12/2020", "ano": 2020, "hrsJogadas": "5h", "tamJogo": "Curto", "platJogada": "Xbox One S", "gamescore": "440/1600", "gamescoreSoma": 440, "nota": 7, "preco": 999},
+    {"id": 23, "capa": "", "jogo": "BattleField 4", "status": "Finalizado", "comecei": "24/11/2020", "terminei": "06/12/2020", "ano": 2020, "hrsJogadas": "5h", "tamJogo": "Curto", "platJogada": "Xbox One S", "gamescore": "440/1600", "gamescoreSoma": 440, "nota": 7, "preco": 999}
   ]
 }
