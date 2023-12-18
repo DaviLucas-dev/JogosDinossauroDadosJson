@@ -21,6 +21,6 @@
     {"id": 48, "capa": "", "jogo": "The Walking Dead Michonne", "status": "Finalizado", "comecei": "08/09/2022", "terminei": "11/12/2022", "ano": 2022, "hrsJogadas": "6h", "tamJogo": "Curto", "platJogada": "Xbox One S", "gamescore": "1000/1000", "gamescoreSoma": 1000, "nota": "7", "preco": 999},
     {"id": 49, "capa": "", "jogo": "The Walking Dead The Final Season", "status": "Finalizado", "comecei": "13/12/2022", "terminei": "15/12/2022", "ano": 2022, "hrsJogadas": "6h", "tamJogo": "Curto", "platJogada": "Xbox One S", "gamescore": "640/1000", "gamescoreSoma": 640, "nota": "8.5", "preco": 999},
     {"id": 50, "capa": "", "jogo": "A PlagueTalle Requiem", "status": "Finalizado", "comecei": "21/12/2022", "terminei": "23/12/2022", "ano": 2022, "hrsJogadas": "17h 2m", "tamJogo": "Médio", "platJogada": "Xbox One S", "gamescore": "285/1000", "gamescoreSoma": 285, "nota": "9.5", "preco": 999},
-    {"id": 51, "capa": "", "jogo": "Call Of Duty Modern Warfare 2 (2022)", "status": "Finalizado", "comecei": "02/11/2022", "terminei": "23/12/2022", "ano": 2022, "hrsJogadas": "1sem 3d 1h 12m", "tamJogo": "curto", "platJogada": "Xbox One S", "gamescore": "100/1000", "gamescoreSoma": 100, "nota": "8", "preco": 999},
+    {"id": 51, "capa": "", "jogo": "Call Of Duty Modern Warfare 2 (2022)", "status": "Finalizado", "comecei": "02/11/2022", "terminei": "23/12/2022", "ano": 2022, "hrsJogadas": "1sem 3d 1h 12m", "tamJogo": "curto", "platJogada": "Xbox One S", "gamescore": "100/1000", "gamescoreSoma": 100, "nota": "8", "preco": 999}
   ]
 }
