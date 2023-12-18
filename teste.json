@@ -4,6 +4,6 @@
   {"firstName":"Anna", "lastName":"Smith"},
   {"firstName":"Peter", "lastName":"Jones"},
   {"firstName":"aaaaa", "lastName":"bbbbbb"},
-  {"firstName":"ccccc", "lastName":"dddddd"}
+  {"firstName":"ccccc", "lastName": 4}
 ]
 }
