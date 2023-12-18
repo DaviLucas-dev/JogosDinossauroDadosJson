@@ -1,5 +1,5 @@
 {
-"employees":[
+"dbDino":[
     {"id": 1, "capa": "https://raw.githubusercontent.com/DaviLucas-dev/testeLinks/main/Imagem/Captura%20de%20Tela%202023-12-18%20a%CC%80s%2015.52.01.png", "jogo": "BattleField 1", "status": "Finalizado", "comecei": "19/06/2019", "terminei": "23/06/2019", "ano": 2019, "hrsJogadas": "9h 33m", "tamJogo": "Médio", "platJogada": "Xbox One S", "gamescore": "160/2000", "gamescoreSoma": 160, "nota": 8, "preco": 0},
     {"id": 2, "capa": "https://raw.githubusercontent.com/DaviLucas-dev/testeLinks/main/Imagem/Captura%20de%20Tela%202023-12-18%20a%CC%80s%2015.52.13.png", "jogo": "BattleField 5", "status": "Finalizado", "comecei": "16/06/2019", "terminei": "26/06/2019", "ano": 2019, "hrsJogadas": "1d 19h 58m", "tamJogo": "Médio", "platJogada": "Xbox One S", "gamescore": "265/1000", "gamescoreSoma": 265, "nota": 8, "preco": 0},
     {"id": 3, "capa": "https://raw.githubusercontent.com/DaviLucas-dev/testeLinks/main/Imagem/Captura%20de%20Tela%202023-12-18%20a%CC%80s%2015.51.52.png", "jogo": "Destiny 2", "status": "Finalizado", "comecei": "30/06/2019", "terminei": "02/07/2019", "ano": 2019, "hrsJogadas": "20h 25m", "tamJogo": "Longo", "platJogada": "Xbox One S", "gamescore": "240/1240", "gamescoreSoma": 240, "nota": 8, "preco": 999},
